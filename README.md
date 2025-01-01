@@ -1,1 +1,1 @@
-# Statistical-Arbitrage-in-NIfty-100
+# Statistical-Arbitrage-in-Nifty-100
